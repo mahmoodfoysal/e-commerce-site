@@ -1,0 +1,11 @@
+.image-height {
+    height: 350px;
+}
+.name-word-limit {
+    height:50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.card-style {
+    border-radius: 15px;
+}

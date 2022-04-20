@@ -1,0 +1,10 @@
+.registration-form-style form{
+    display: flex;
+    flex-direction: column;
+}
+
+.registration-form-style input {
+    margin-bottom: 5px;
+    border-radius: 6px;
+    padding: 4px;
+}
